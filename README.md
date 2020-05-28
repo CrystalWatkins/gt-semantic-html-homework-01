@@ -91,7 +91,7 @@ the following sections.
 
 ## Badges
 
-![badmath](https://img.shields.io/apm/l/accessibility-html)
+![badmath](https://img.shields.io/github/stars/CrystalWatkins/gt-semantic-html-homework-01?style=social)
 
 Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other 
 developers know that you know what you're doing. Check out the badges hosted by [shields.
