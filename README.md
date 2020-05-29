@@ -17,8 +17,13 @@ From there, I felt that the index.html was fixed to my working knowledge so far.
 
 ## Installation
 
-Clone the repository- open up in code editor- how to get from code editor to screen
-here is a link to the website
+Please click on links below to see webpages below:
+
+webpage from github: 
+[GitHub Pages](https://github.com/CrystalWatkins/gt-semantic-html-homework-01).
+
+click on the link 
+[Website link for Horiseon](https://crystalwatkins.github.io/gt-semantic-html-homework-01/).
 
 
 
