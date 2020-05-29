@@ -2,10 +2,7 @@
 
 ## Description 
 
-This website is for a marketing firm called Horiseon. Previously, it did not have semantic elements and was not set up for web accessibility. In the HTML file, I was able to change the div to semantic tags that included header, section, nav, main, figure, small, aside, article, and footer. This allowed it to have the correct HTML semantics that improved the page. I then added alt attributes to all of the pictures to improve our web accessibility. I then confirmed that all of the code in HTML was in the same order that was displayed on the webpage. I was able to fix the link in the navigation bar that allowed you to click on the search engine optimization and allow you to reach the info section on search engine optimization further down on the page. I confirmed that the following two links worked- online reputation management and the social media marketing both linked correctly to the respective spots on the page. 
-
-From there, I felt that the index.html was fixed to my working knowledge so far. I then moved to the style.css page and was able to apply the same styles to multiple classes using , in between each class. From there, I did not want to delete the work that was already completed, so I made the other class selectors into comments. 
-
+This is a homework requirement for GT Full Stack Flex Program. This webpage was built using HTML and CSS that needs to be refactored. The webpage now includes web accessibility, semantic elements, and has improved search engine optimization.
 
 ## Table of Contents
 
