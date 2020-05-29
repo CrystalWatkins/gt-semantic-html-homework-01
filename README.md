@@ -17,8 +17,6 @@ This is a homework requirement for GT Full Stack Flex Program. This webpage was 
 1. Clone the repo
 2. Open the index.html file
 
-Please click on links below to see webpages below:
-
 [Link to Code](https://github.com/CrystalWatkins/gt-semantic-html-homework-01).
  
 [Website link for Horiseon](https://crystalwatkins.github.io/gt-semantic-html-homework-01/).
