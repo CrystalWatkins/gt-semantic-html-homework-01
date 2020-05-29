@@ -19,10 +19,8 @@ From there, I felt that the index.html was fixed to my working knowledge so far.
 
 Please click on links below to see webpages below:
 
-webpage from github: 
-[GitHub Pages](https://github.com/CrystalWatkins/gt-semantic-html-homework-01).
-
-click on the link 
+[Link to Code](https://github.com/CrystalWatkins/gt-semantic-html-homework-01).
+ 
 [Website link for Horiseon](https://crystalwatkins.github.io/gt-semantic-html-homework-01/).
 
 
@@ -31,13 +29,13 @@ click on the link
 
 This simple HTML file uses best practices for accessibility in programming.
 
-![Test Page](./webpage1.png)
+![Test Page](webpage1.png)
 
-![please help](./webpage2.png)
+![please help](webpage2.png)
 
 ## Credits
 
-This was a solo project completed as s homework for the Georgia Tech, FullStack Flex Program.
+This was a code refactoring project completed as a homework for the Georgia Tech, FullStack Flex Program.
 
 
 
